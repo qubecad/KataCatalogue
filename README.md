@@ -1,4 +1,4 @@
 KataCatalogue
 =============
 
-Soluitons for Kata codingdojo.org
+Solutions for Kata codingdojo.org challenges
